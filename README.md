@@ -1,1 +1,1 @@
-# Cat_or_Dog_CNN_Python
+#The data set was taken from Kaggle.
